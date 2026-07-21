@@ -14,7 +14,7 @@ export const DEFAULT_CONTACT: SiteContact = {
   whatsapp: '919773323613',
   telegram: 'sam11890',
   email: 'export@alphavigor.com',
-  instagram: 'sam11890',
+  instagram: 'alpha_vigorrr',
   address: 'Badlapur, Mumbai, Maharashtra, India',
 };
 
